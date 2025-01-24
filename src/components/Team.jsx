@@ -7,9 +7,7 @@ const Team = () => {
         <div className="heading_section">
           <h1 className="heading">OUR TEAM</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae
-            fugit dicta, ipsum impedit quam laboriosam quas doloremque quia
-            perferendis laborum.
+          At NEXT BITE, our team is a passionate blend of food enthusiasts, tech experts, and customer service champions. Together, we work tirelessly to connect you with the best dining experiences. From curating top restaurant options to ensuring seamless reservations and exceptional service, our team’s mission is to make every bite memorable. We're here to serve you with innovation, dedication, and heart!
           </p>
         </div>
         <div className="team_container">
